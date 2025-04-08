@@ -1,0 +1,1 @@
+export { SchoolThrive } from "./SchoolThrive";
